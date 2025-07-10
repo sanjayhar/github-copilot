@@ -1,4 +1,4 @@
-#  Dockerfile Generator using Python and Ollama
+#  Dockerfile Generator using Python and Ollama [Local Machine]
 
 This project allows you to generate a Dockerfile for any programming language using a simple Python script. It leverages [Ollama](https://ollama.com/) (a lightweight LLM framework) to assist with generating the Dockerfile.
 
